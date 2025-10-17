@@ -1,0 +1,12 @@
+# Virtual Environment - no one needs this
+venv/
+
+# Secret encryption key - MUST be kept private
+key.key
+
+# Secret credentials file - MUST be kept private
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
