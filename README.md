@@ -202,13 +202,6 @@ This project is intended for local self-hosted usage.
 
 ## Future Improvements
 
-* Multi-user support
-* MFA / OTP
-* Password strength analysis
-* Session expiration
-* Audit logs
-* Secure cloud sync
+This project currently solves my personal use case.
 
----
-
-Built as a learning project to understand secure credential storage, encryption workflows, and full-stack application architecture.
+Future updates will focus on improving usability, local backup workflows, vault search optimization, password history tracking, and overall vault management while keeping credentials self-hosted and encrypted.
